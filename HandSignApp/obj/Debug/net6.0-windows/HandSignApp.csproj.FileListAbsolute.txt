@@ -1,0 +1,17 @@
+C:\Users\Stella\Desktop\SignLanguage\HandSignApp\HandSignApp\obj\Debug\net6.0-windows\HandSignApp.csproj.AssemblyReference.cache
+C:\Users\Stella\Desktop\SignLanguage\HandSignApp\HandSignApp\obj\Debug\net6.0-windows\HandSignApp.Form1.resources
+C:\Users\Stella\Desktop\SignLanguage\HandSignApp\HandSignApp\obj\Debug\net6.0-windows\HandSignApp.csproj.GenerateResource.cache
+C:\Users\Stella\Desktop\SignLanguage\HandSignApp\HandSignApp\obj\Debug\net6.0-windows\HandSignApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stella\Desktop\SignLanguage\HandSignApp\HandSignApp\obj\Debug\net6.0-windows\HandSignApp.AssemblyInfoInputs.cache
+C:\Users\Stella\Desktop\SignLanguage\HandSignApp\HandSignApp\obj\Debug\net6.0-windows\HandSignApp.AssemblyInfo.cs
+C:\Users\Stella\Desktop\SignLanguage\HandSignApp\HandSignApp\obj\Debug\net6.0-windows\HandSignApp.csproj.CoreCompileInputs.cache
+C:\Users\Stella\Desktop\SignLanguage\HandSignApp\HandSignApp\bin\Debug\net6.0-windows\HandSignApp.exe
+C:\Users\Stella\Desktop\SignLanguage\HandSignApp\HandSignApp\bin\Debug\net6.0-windows\HandSignApp.deps.json
+C:\Users\Stella\Desktop\SignLanguage\HandSignApp\HandSignApp\bin\Debug\net6.0-windows\HandSignApp.runtimeconfig.json
+C:\Users\Stella\Desktop\SignLanguage\HandSignApp\HandSignApp\bin\Debug\net6.0-windows\HandSignApp.dll
+C:\Users\Stella\Desktop\SignLanguage\HandSignApp\HandSignApp\bin\Debug\net6.0-windows\HandSignApp.pdb
+C:\Users\Stella\Desktop\SignLanguage\HandSignApp\HandSignApp\obj\Debug\net6.0-windows\HandSignApp.dll
+C:\Users\Stella\Desktop\SignLanguage\HandSignApp\HandSignApp\obj\Debug\net6.0-windows\refint\HandSignApp.dll
+C:\Users\Stella\Desktop\SignLanguage\HandSignApp\HandSignApp\obj\Debug\net6.0-windows\HandSignApp.pdb
+C:\Users\Stella\Desktop\SignLanguage\HandSignApp\HandSignApp\obj\Debug\net6.0-windows\HandSignApp.genruntimeconfig.cache
+C:\Users\Stella\Desktop\SignLanguage\HandSignApp\HandSignApp\obj\Debug\net6.0-windows\ref\HandSignApp.dll
